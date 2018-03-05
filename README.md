@@ -1,6 +1,8 @@
 # Proyecto-Serpientes-y-Escaleras
 Juego de serpientes y escaleras
 
-Integrantes:
--Oscar Francisco Flores Gallegos
--Sebasitan Cepeda Hernandez
+Integrantes: <br>
+-Oscar Francisco Flores Gallegos <br>
+-Sebasitan Cepeda Hernandez <br>
+
+Grupo: ITI-07116
